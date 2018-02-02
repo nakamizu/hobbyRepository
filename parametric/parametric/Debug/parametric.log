@@ -1,0 +1,4 @@
+﻿  parametric.cpp
+c:\users\nakamizu\documents\visual studio 2017\projects\parametric\parametric\parametric.cpp(59): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+c:\users\nakamizu\documents\visual studio 2017\projects\parametric\parametric\parametric.cpp(59): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  parametric.vcxproj -> C:\Users\nakamizu\Documents\Visual Studio 2017\Projects\parametric\Debug\parametric.exe
